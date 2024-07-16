@@ -1,4 +1,4 @@
-# Mind__Focusing__Game
+# Memory__Game
 Increases the Focus
 
 Game Logic
